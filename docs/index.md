@@ -8,7 +8,7 @@
 A small, toolbox-free audio pipeline with clear figures (Fig.1–Fig.7): waveform + spectrogram, cross-correlation delay, resampling (demo vs. best practice), FFT + small-K DFT, 12 dB noise, AM → demod → FIR LPF.
 
 ## What’s here
-[Report (PDF)](<./Report1 Zhehao Zhu.pdf>)
+[[Report (PDF)](<./Report1 Zhehao Zhu.pdf>)](https://github.com/zzhu0143/Report1-Zhehao-Zhu/blob/main/docs/Report1-%20Zhehao%20Zhu.pdf)
 ## Figures (click to open)
 
 - [Fig.1: [Waveform & Spectrogram](./figs/Fig1_wave_spectrogram.png)](https://github.com/zzhu0143/Report1-Zhehao-Zhu/blob/main/figs/Fig1_wave_spectrogram.png)
