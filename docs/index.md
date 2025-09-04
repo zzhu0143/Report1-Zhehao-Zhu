@@ -8,9 +8,9 @@
 A small, toolbox-free audio pipeline with clear figures (Fig.1–Fig.7): waveform + spectrogram, cross-correlation delay, resampling (demo vs. best practice), FFT + small-K DFT, 12 dB noise, AM → demod → FIR LPF.
 
 ## What’s here
-- **Report (HTML):** [report.html](./report.html)  
-- **Figures folder:** [/figs](../figs/)  
-- **Code folder:** [/code](../code/)
+**Report (HTML):** [report.html](report.html)   
+**Figures:** [../figs/](../figs/)
+**Code:** [../code/](../code/)
 
 ## Milestones
 - M1 (this submission): working pipeline + site online  
