@@ -1,7 +1,7 @@
 # Audio Signal Processing – Project Proposal
 
 **Author:** Zhehao Zhu · **SID:** zzhu0143  
-**Live Site (this page):** (auto-filled after Pages is enabled)  
+**Live Site (https://zzhu0143.github.io/Report1-Zhehao-Zhu/)
 **Repository:** https://github.com/<zzhu0143>/audio-signal-lab-proposal
 
 ## Overview
