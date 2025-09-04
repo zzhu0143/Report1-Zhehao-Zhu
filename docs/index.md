@@ -22,8 +22,9 @@ A small, toolbox-free audio pipeline with clear figures (Fig.1–Fig.7): wavefor
 [- Fig.5: [Custom K-point DFT](./figs/Fig5_customDFT.png)](https://github.com/zzhu0143/Report1-Zhehao-Zhu/blob/main/figs/Fig5_customDFT.png)
 
 [- Fig.6: [AWGN: clean vs noisy](./figs/Fig6_awgn.png)](https://github.com/zzhu0143/Report1-Zhehao-Zhu/blob/main/figs/Fig6_awgn.png)
-- Fig.7: [AM chain spectra](./figs/Fig7_am_chain_spectra.png)
-**Code:** [../code/](../code/)
+
+[- Fig.7: [AM chain spectra](./figs/Fig7_am_chain_spectra.png)
+**Code:** [../code/](../code/)](https://github.com/zzhu0143/Report1-Zhehao-Zhu/blob/main/figs/Fig7_am_chain_spectra.png)
 
 ## Milestones
 - M1 (this submission): working pipeline + site online  
