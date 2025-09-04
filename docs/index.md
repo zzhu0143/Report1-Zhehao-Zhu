@@ -2,7 +2,8 @@
 
 **Author:** Zhehao Zhu · **SID:** zzhu0143  
 **Live Site (https://zzhu0143.github.io/Report1-Zhehao-Zhu/)
-**Repository:** https://github.com/<zzhu0143>/audio-signal-lab-proposal
+
+**Repository:** (https://github.com/<zzhu0143>/Report1-Zhehao-Zhu)
 
 ## Overview
 A small, toolbox-free audio pipeline with clear figures (Fig.1–Fig.7): waveform + spectrogram, cross-correlation delay, resampling (demo vs. best practice), FFT + small-K DFT, 12 dB noise, AM → demod → FIR LPF.
